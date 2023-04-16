@@ -16,15 +16,20 @@
 2. <b><i>Execute o arquivo baixado e siga as instruções do instalador.</b></em>
 3. <b><i>Adicione o diretório do Python à variável de ambiente PATH do sistema.</b></em>
 4. <b><i>Verifique se o Python foi instalado corretamente executando o seguinte comando:</b></em>
+
+
 ![image](https://user-images.githubusercontent.com/130713027/232272607-52216388-dfa3-4003-a33c-07d86862a322.png)
 
 
 ## Instalação do RobotFramework e SeleniumLibrary
 <b><i>Agora que o Python e o PIP estão instalados, você pode usar o PIP para instalar o RobotFramework e a SeleniumLibrary. Para isso, execute o seguinte comando:</b></em>
+
 ![image](https://user-images.githubusercontent.com/130713027/232272654-b60a28ec-a05e-4bff-a689-9a408c96da47.png)
+
 ![image](https://user-images.githubusercontent.com/130713027/232272668-b8a4db76-955c-41d8-8385-460c9b051995.png)
 
 <i>Isso instalará o RobotFramework e a biblioteca SeleniumLibrary em seu sistema. Na sua IDE de prefência, instale a extensão Robot Framework Language Server:</i>
+
 ![image](https://user-images.githubusercontent.com/130713027/232272746-e9e61b17-6919-47d9-a2b7-2acaed2b06fc.png)
 
 ## Conclusão
