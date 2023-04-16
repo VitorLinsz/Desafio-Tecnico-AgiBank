@@ -57,3 +57,15 @@
         │   ├── ResourcesRobot\
         │   └── ResourcesWebServiceUtilities\
         └── README.md
+
+
+## Execução de Testes
+Com todas as pendências instaladas, basta acessar o terminal e digitar "robot ." para iniciar a execução de todos os testes escritos:
+
+![image](https://user-images.githubusercontent.com/130713027/232332884-db1c98fb-6a4a-4b87-9e54-5d30781f96d1.png)
+
+É possível também executar de outras maneiras, como por exemplo:
+
+Clicando no ícone de play ao lado esquerdo, para rodar cada teste isoladamente:
+
+![image](https://user-images.githubusercontent.com/130713027/232332989-62bef453-8733-4186-a0c1-db35b184659a.png)
