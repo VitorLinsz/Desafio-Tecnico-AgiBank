@@ -7,7 +7,7 @@
 <i>Antes de começarmos, certifique-se de ter os seguintes pré-requisitos instalados no seu sistema:</i>
 - <b>Sistema operacional:</b> Windows, macOS ou Linux
 - <b>Python:</b> 3.11.3
-- <b>PIPn:</b> O gerenciador de pacotes Python
+- <b>PIP:</b> O gerenciador de pacotes Python
 
 ## Instalação do Python
 <i>Se você ainda não tem o Python instalado, siga estas etapas para instalar o Python em seu sistema:</i>
